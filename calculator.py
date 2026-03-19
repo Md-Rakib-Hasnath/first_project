@@ -3,3 +3,4 @@ print("There are 2 variables : a and b")
 a=3
 b=4
 print(a+b)
+print("sum is =",a+b)
